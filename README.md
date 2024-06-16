@@ -1,7 +1,7 @@
 <h1>:fire: Alex Olmedo :fire:</h1>
 
 - :diving_mask: Estou mergulhando nos cursos da Alura.
-- :computer: Estudando sobre a área da programação.
+- :computer: Estudando sobre programação.
 - :wink: Estou disposto para ajudar no que puder.
 - :grin: Suas dicas e colaborações são bem-vindas aqui.
 
