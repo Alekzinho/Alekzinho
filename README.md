@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>:fire: Alex Olmedo :fire:</h1>
 
-<!--
-**Alekzinho/Alekzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :diving_mask: Estou mergulhando nos cursos da Alura.
+- :computer: Estudando sobre a área da programação.
+- :wink: Estou disposto para ajudar no que puder.
+- :grin: Suas dicas e colaborações são bem-vindas aqui.
 
-Here are some ideas to get you started:
+<h1>:books: Linguagens e ferramentas em estudo</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img loading="lazy" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=gray"/> <img loading="lazy" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=red"/>
+</p>
+
+<h1>:zap: Github Stats</h1>
+
+<div>
+<a href="https://github.com/Alekzinho">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alekzinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alekzinho&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
